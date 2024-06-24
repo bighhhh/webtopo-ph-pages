@@ -1,0 +1,392 @@
+{
+  "graph": {
+    "backgroundColor": "#000",
+    "backgroundImg": "",
+    "pageSize": {
+      "key": "1680*1050(8:5)",
+      "width": 1680,
+      "height": 1050
+    },
+    "contentAdaptation": "fullAll"
+  },
+  "cells": {
+    "cells": [
+      {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_left_top",
+        "zIndex": 1
+      },
+      {
+        "position": {
+          "x": 1679,
+          "y": 0
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_right_top",
+        "zIndex": 2
+      },
+      {
+        "position": {
+          "x": 0,
+          "y": 1049
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_left_bottom",
+        "zIndex": 3
+      },
+      {
+        "position": {
+          "x": 1679,
+          "y": 1049
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_bottom_bottom",
+        "zIndex": 4
+      },
+      {
+        "position": {
+          "x": 1190,
+          "y": 640
+        },
+        "size": {
+          "width": 300,
+          "height": 120
+        },
+        "shape": "super-node",
+        "id": "f6982191-89a4-4a03-a744-9d60638c667b",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "selectorRect",
+                    "attrs": {
+                      "x": 0,
+                      "y": 0,
+                      "fill": "none",
+                      "pointerEvents": "visible"
+                    }
+                  },
+                  {
+                    "name": "图片",
+                    "tagName": "image",
+                    "selector": "body",
+                    "attrs": {
+                      "width": "204px",
+                      "height": "204px"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "selectorRect": {
+            "refWidth": 1,
+            "refHeight": 1
+          },
+          "body": {
+            "preserveAspectRatio": "none meet",
+            "refWidth": 1,
+            "refHeight": 1,
+            "href": "webtopo/nodes/Vehicles/18-WheelerTruck.svg"
+          }
+        },
+        "label": "18轮卡车",
+        "nodeName": "18轮卡车_5",
+        "zIndex": 5,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{fMUSpctPN4OUh_5I1ZUD_.qAn_qQTV-NnwKnXl6knPE}>0",
+              "points": [
+                {
+                  "mpKey": "fMUSpctPN4OUh_5I1ZUD_",
+                  "attrKey": "qAn_qQTV-NnwKnXl6knPE",
+                  "mpId": 1,
+                  "attrId": 1
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "animation"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": [
+                    {
+                      "key": "rotate",
+                      "name": "旋转",
+                      "class": "corotation-r",
+                      "style": {
+                        "--animation-duration": 1,
+                        "--animation-timing-function": "linear",
+                        "--animation-delay": 0,
+                        "--animation-iteration-count": 1,
+                        "--animation-direction": "normal",
+                        "--animation-fill-mode": "both",
+                        "--animation-play-state": "running",
+                        "--animation-timeline": "auto",
+                        "--animation-range-start": "normal",
+                        "--angle-rotation": 20
+                      }
+                    }
+                  ]
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            },
+            {
+              "ifstr": "{fMUSpctPN4OUh_5I1ZUD_.qAn_qQTV-NnwKnXl6knPE}",
+              "points": [
+                {
+                  "mpKey": "fMUSpctPN4OUh_5I1ZUD_",
+                  "attrKey": "qAn_qQTV-NnwKnXl6knPE",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "transition"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "target": {
+                      "x": 620,
+                      "y": 360
+                    },
+                    "delay": 1000
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        }
+      },
+      {
+        "position": {
+          "x": 440,
+          "y": 120
+        },
+        "size": {
+          "width": 780,
+          "height": 100
+        },
+        "shape": "super-node",
+        "id": "894ff970-753d-447a-a8df-556b9c16e5c7",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "组合动画，点击此处启动查看效果",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            }
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_6",
+        "zIndex": 6,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "events": [
+          {
+            "id": "5b32cEKa5Rw6wNhCUd-L5",
+            "eventType": "click",
+            "actionType": "data",
+            "formType": "tooltip",
+            "menuTitle": "",
+            "actions": [
+              {
+                "id": "CCFzTuncqoSVd8fF-pNA6",
+                "dataActionType": "setdata",
+                "type": "button",
+                "title": "启动",
+                "value": "100",
+                "url": "",
+                "blueprint": null,
+                "point": {
+                  "id": "",
+                  "mpId": 1,
+                  "mpName": "",
+                  "attrId": 1,
+                  "attrName": "",
+                  "multiple": 1,
+                  "decimal": 2,
+                  "mpKey": "fMUSpctPN4OUh_5I1ZUD_",
+                  "attrKey": "qAn_qQTV-NnwKnXl6knPE"
+                },
+                "texts": [
+                  {
+                    "value": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "1L1iMqkC2_jNr2YFJFG9n",
+                "dataActionType": "setdata",
+                "type": "button",
+                "title": "归位",
+                "value": "0",
+                "url": "",
+                "blueprint": null,
+                "point": {
+                  "id": "",
+                  "mpId": 1,
+                  "mpName": "",
+                  "attrId": 1,
+                  "attrName": "",
+                  "multiple": 1,
+                  "decimal": 2,
+                  "mpKey": "fMUSpctPN4OUh_5I1ZUD_",
+                  "attrKey": "qAn_qQTV-NnwKnXl6knPE"
+                },
+                "texts": [
+                  {
+                    "value": "",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "points": [
+    {
+      "mpKey": "fMUSpctPN4OUh_5I1ZUD_",
+      "attrKey": "qAn_qQTV-NnwKnXl6knPE",
+      "mpId": 1,
+      "mpName": "测量点1",
+      "attrId": 1,
+      "attrName": "A相电压"
+    }
+  ]
+}

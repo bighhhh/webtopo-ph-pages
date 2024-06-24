@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-30 -30 60 60">
+  <!-- 画一个圆 -->
+  <circle cx="0" cy="0" r="20" stroke-width="2"  stroke="white"  fill-opacity="0"/>
+  <!-- 画一个斜线 -->
+  <line x1="-20" y1="0" x2="20" y2="0" stroke="white" stroke-width="2"/>
+</svg>

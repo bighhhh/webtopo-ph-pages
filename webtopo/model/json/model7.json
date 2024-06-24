@@ -1,0 +1,3053 @@
+{
+  "graph": {
+    "backgroundColor": "rgba(9, 17, 42, 1)",
+    "backgroundImg": "",
+    "pageSize": {
+      "key": "1680*1050(8:5)",
+      "width": 1680,
+      "height": 1050
+    },
+    "contentAdaptation": "fullAll"
+  },
+  "cells": {
+    "cells": [
+      {
+        "position": {
+          "x": 139.99999999999977,
+          "y": 359.00000000000136
+        },
+        "size": {
+          "width": 420,
+          "height": 230.99999999999886
+        },
+        "shape": "super-node",
+        "id": "7cfaccdb-40f6-4b65-a8c9-d34f14dbf07d",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "#5F95FF",
+            "fill": "rgba(5, 82, 254, 0.43)"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_49",
+        "zIndex": 4,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 20,
+          "y": 180.00000000000728
+        },
+        "size": {
+          "width": 1640,
+          "height": 810
+        },
+        "shape": "super-node",
+        "id": "b3d3c34c-6292-4b33-8c85-62abafc1f370",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "selectorRect",
+                    "attrs": {
+                      "x": 0,
+                      "y": 0,
+                      "fill": "none",
+                      "pointerEvents": "visible"
+                    }
+                  },
+                  {
+                    "name": "图片",
+                    "tagName": "image",
+                    "selector": "body",
+                    "attrs": {
+                      "width": "204px",
+                      "height": "204px"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "selectorRect": {
+            "refWidth": 1,
+            "refHeight": 1
+          },
+          "body": {
+            "preserveAspectRatio": "none meet",
+            "refWidth": 1,
+            "refHeight": 1,
+            "href": "webtopo\\custom\\nodes\\Accessoires\\测试.png"
+          }
+        },
+        "label": "测试",
+        "nodeName": "测试_5",
+        "zIndex": 5,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 20.000000000000114,
+          "y": 0
+        },
+        "size": {
+          "width": 1639.9999999999998,
+          "height": 92.46808510638301
+        },
+        "shape": "super-node",
+        "id": "85885169-98b4-4853-8993-ea0a57aad790",
+        "preserveAspectRatio": true,
+        "nodeName": "图片_5",
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "图片",
+                    "tagName": "image",
+                    "selector": "body",
+                    "attrs": {
+                      "preserveAspectRatio": "none",
+                      "width": 300,
+                      "height": 16.914893617021278
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "body": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "href": "webtopo/decorate/header/5.png"
+          }
+        },
+        "zIndex": 6,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)"
+      },
+      {
+        "position": {
+          "x": 725,
+          "y": 1.0000000000001066
+        },
+        "size": {
+          "width": 230,
+          "height": 91.46808510638287
+        },
+        "shape": "super-node",
+        "id": "80b167e3-3a4d-4ff8-84fc-2a6e47757307",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "监测系统",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 42,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            }
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_7",
+        "zIndex": 7,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)"
+      },
+      {
+        "position": {
+          "x": 20,
+          "y": 858.9999999999998
+        },
+        "size": {
+          "width": 350,
+          "height": 178.99999999999977
+        },
+        "shape": "super-node",
+        "id": "436d140f-e1ae-4b53-970b-7191d58a3966",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "rgba(29, 105, 245, 1)",
+            "fill": "rgba(4, 46, 123, 0.15)"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_8",
+        "zIndex": 8,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": false
+      },
+      {
+        "position": {
+          "x": 43.000000000000284,
+          "y": 867.9999999999995
+        },
+        "size": {
+          "width": 240,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "0e8f349d-3d48-4b83-91e6-d3e2b9117305",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "冷冻水主管LDSTP",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 27,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "bold"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "zIndex": 9,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": false
+      },
+      {
+        "position": {
+          "x": 32.000000000000284,
+          "y": 901.9999999999995
+        },
+        "size": {
+          "width": 130,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "c0496ce5-dee3-4e4c-a597-7eef9fd290be",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "送水温度",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 14,
+        "lock": false
+      },
+      {
+        "position": {
+          "x": 159.00000000000028,
+          "y": 891.9999999999995
+        },
+        "size": {
+          "width": 210,
+          "height": 50
+        },
+        "shape": "super-node",
+        "id": "8efaa20e-33a2-4b40-ae48-d67d7594db43",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "##",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(254, 254, 254, 1)",
+            "fontSize": 30,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontFamily": "数字-1234567890-5"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_11",
+        "zIndex": 15,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "format": {
+            "point": {
+              "mpKey": "wwgYgizG2g58JpBTN6JMF",
+              "attrKey": "F_lrShh_hz-Yvb_q_nAyW",
+              "mpId": 1,
+              "attrId": 1
+            },
+            "selector": "text",
+            "decimalNum": 2,
+            "multiplier": 1,
+            "unit": "℃"
+          }
+        },
+        "lock": false
+      },
+      {
+        "position": {
+          "x": 160.00000000000006,
+          "y": 987.9999999999995
+        },
+        "size": {
+          "width": 210,
+          "height": 50
+        },
+        "shape": "super-node",
+        "id": "90ed9bf2-263e-4ee6-beb8-dadb584f58da",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "##",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 30,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontFamily": "数字-1234567890-5"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_11",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "format": {
+            "point": {
+              "mpKey": "wwgYgizG2g58JpBTN6JMF",
+              "attrKey": "F_lrShh_hz-Yvb_q_nAyW",
+              "mpId": 1,
+              "attrId": 1
+            },
+            "selector": "text",
+            "decimalNum": 2,
+            "multiplier": 1,
+            "unit": "℃"
+          }
+        },
+        "zIndex": 17,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 32.000000000000284,
+          "y": 934.9999999999995
+        },
+        "size": {
+          "width": 130,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "11253164-227e-4b06-abca-d9a7063011a9",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "回水温度",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 18,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 160.00000000000006,
+          "y": 928.0000000000068
+        },
+        "size": {
+          "width": 210,
+          "height": 50
+        },
+        "shape": "super-node",
+        "id": "b62ebabe-afde-4f48-a6c0-00c36a2e9344",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "##",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 30,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontFamily": "数字-1234567890-5"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_11",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "format": {
+            "point": {
+              "mpKey": "wwgYgizG2g58JpBTN6JMF",
+              "attrKey": "F_lrShh_hz-Yvb_q_nAyW",
+              "mpId": 1,
+              "attrId": 1
+            },
+            "selector": "text",
+            "decimalNum": 2,
+            "multiplier": 1,
+            "unit": "℃"
+          }
+        },
+        "zIndex": 19,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 160.00000000000006,
+          "y": 960.9999999999995
+        },
+        "size": {
+          "width": 210,
+          "height": 50
+        },
+        "shape": "super-node",
+        "id": "ec6320de-44de-4622-8529-79228282ef53",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "##",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 30,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontFamily": "数字-1234567890-5"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_11",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "format": {
+            "point": {
+              "mpKey": "wwgYgizG2g58JpBTN6JMF",
+              "attrKey": "F_lrShh_hz-Yvb_q_nAyW",
+              "mpId": 1,
+              "attrId": 1
+            },
+            "selector": "text",
+            "decimalNum": 2,
+            "multiplier": 1,
+            "unit": "℃"
+          }
+        },
+        "zIndex": 21,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 32.000000000000284,
+          "y": 967.9999999999995
+        },
+        "size": {
+          "width": 130,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "5ed95c8f-d7a2-44d5-a2a7-aa1221e58a46",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "送水压力",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 22,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 32.000000000000284,
+          "y": 1000.9999999999995
+        },
+        "size": {
+          "width": 130,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "cf70caa5-3e21-4020-9fcb-21d06e73ad6b",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "回水压力",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 23,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 405.0000000000002,
+          "y": 858.9999999999998
+        },
+        "size": {
+          "width": 350,
+          "height": 178.99999999999977
+        },
+        "shape": "super-node",
+        "id": "815ac1c5-72fa-4600-8716-835f156fe516",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "rgba(29, 105, 245, 1)",
+            "fill": "rgba(4, 46, 123, 0.15)"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_8",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true,
+        "zIndex": 24
+      },
+      {
+        "position": {
+          "x": 415.0000000000005,
+          "y": 867.9999999999995
+        },
+        "size": {
+          "width": 240,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "d252b711-1486-4e9a-a683-eb9819d68e70",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "冷冻水主管TP01",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 27,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "bold"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true,
+        "zIndex": 25
+      },
+      {
+        "position": {
+          "x": 417.0000000000005,
+          "y": 901.9999999999995
+        },
+        "size": {
+          "width": 130,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "2524bd1c-37dd-422f-9e88-b96c5473c775",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "送水温度",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 26,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 544.0000000000005,
+          "y": 891.9999999999995
+        },
+        "size": {
+          "width": 210,
+          "height": 50
+        },
+        "shape": "super-node",
+        "id": "8ef17f96-acf4-4bba-b59c-20530b8afcf8",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "##",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(254, 254, 254, 1)",
+            "fontSize": 30,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontFamily": "数字-1234567890-5"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_11",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "format": {
+            "point": {
+              "mpKey": "wwgYgizG2g58JpBTN6JMF",
+              "attrKey": "F_lrShh_hz-Yvb_q_nAyW",
+              "mpId": 1,
+              "attrId": 1
+            },
+            "selector": "text",
+            "decimalNum": 2,
+            "multiplier": 1,
+            "unit": "℃"
+          }
+        },
+        "zIndex": 27,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 545.0000000000002,
+          "y": 987.9999999999995
+        },
+        "size": {
+          "width": 210,
+          "height": 50
+        },
+        "shape": "super-node",
+        "id": "3e9ada71-65bb-45d6-ad0d-e3f6c6a55025",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "##",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 30,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontFamily": "数字-1234567890-5"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_11",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "format": {
+            "point": {
+              "mpKey": "wwgYgizG2g58JpBTN6JMF",
+              "attrKey": "F_lrShh_hz-Yvb_q_nAyW",
+              "mpId": 1,
+              "attrId": 1
+            },
+            "selector": "text",
+            "decimalNum": 2,
+            "multiplier": 1,
+            "unit": "℃"
+          }
+        },
+        "zIndex": 28,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 417.0000000000005,
+          "y": 934.9999999999995
+        },
+        "size": {
+          "width": 130,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "72c3ea7d-b877-4f61-9426-d2006b63fd7a",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "回水温度",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 29,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 545.0000000000002,
+          "y": 928.0000000000068
+        },
+        "size": {
+          "width": 210,
+          "height": 50
+        },
+        "shape": "super-node",
+        "id": "9746a6b4-0ffe-478a-8f68-9803b463b864",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "##",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 30,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontFamily": "数字-1234567890-5"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_11",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "format": {
+            "point": {
+              "mpKey": "wwgYgizG2g58JpBTN6JMF",
+              "attrKey": "F_lrShh_hz-Yvb_q_nAyW",
+              "mpId": 1,
+              "attrId": 1
+            },
+            "selector": "text",
+            "decimalNum": 2,
+            "multiplier": 1,
+            "unit": "℃"
+          }
+        },
+        "zIndex": 30,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 545.0000000000002,
+          "y": 960.9999999999995
+        },
+        "size": {
+          "width": 210,
+          "height": 50
+        },
+        "shape": "super-node",
+        "id": "f6cb4778-5ad4-4499-9da2-d3e87b20298a",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "##",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 30,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontFamily": "数字-1234567890-5"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_11",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "format": {
+            "point": {
+              "mpKey": "wwgYgizG2g58JpBTN6JMF",
+              "attrKey": "F_lrShh_hz-Yvb_q_nAyW",
+              "mpId": 1,
+              "attrId": 1
+            },
+            "selector": "text",
+            "decimalNum": 2,
+            "multiplier": 1,
+            "unit": "℃"
+          }
+        },
+        "zIndex": 31,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 417.0000000000005,
+          "y": 967.9999999999995
+        },
+        "size": {
+          "width": 130,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "245f44a9-0431-430f-a2e2-a4fe7c26f154",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "送水压力",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 32,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 417.0000000000005,
+          "y": 1000.9999999999995
+        },
+        "size": {
+          "width": 130,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "40521001-e31e-4e53-89ea-8eaf739c7091",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "回水压力",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 33,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 790.0000000000002,
+          "y": 858.9999999999998
+        },
+        "size": {
+          "width": 350,
+          "height": 178.99999999999977
+        },
+        "shape": "super-node",
+        "id": "9074ae4b-3ce7-4774-a195-65e80ea4946a",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "rgba(29, 105, 245, 1)",
+            "fill": "rgba(4, 46, 123, 0.15)"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_8",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true,
+        "zIndex": 34
+      },
+      {
+        "position": {
+          "x": 800.0000000000005,
+          "y": 867.9999999999995
+        },
+        "size": {
+          "width": 240,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "5d189baf-c263-4eb1-a4ec-ab0f0c2578de",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "冷冻水主管TP02",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 27,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "bold"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": false,
+        "zIndex": 35
+      },
+      {
+        "position": {
+          "x": 802.0000000000005,
+          "y": 901.9999999999995
+        },
+        "size": {
+          "width": 130,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "69027bf9-229c-4205-90b8-acba3cfac9d4",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "送水温度",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 36,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 929.0000000000005,
+          "y": 891.9999999999995
+        },
+        "size": {
+          "width": 210,
+          "height": 50
+        },
+        "shape": "super-node",
+        "id": "4a65040c-ade8-4cee-8584-cd5bb79a39da",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "##",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(254, 254, 254, 1)",
+            "fontSize": 30,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontFamily": "数字-1234567890-5"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_11",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "format": {
+            "point": {
+              "mpKey": "wwgYgizG2g58JpBTN6JMF",
+              "attrKey": "F_lrShh_hz-Yvb_q_nAyW",
+              "mpId": 1,
+              "attrId": 1
+            },
+            "selector": "text",
+            "decimalNum": 2,
+            "multiplier": 1,
+            "unit": "℃"
+          }
+        },
+        "zIndex": 37,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 930.0000000000002,
+          "y": 987.9999999999995
+        },
+        "size": {
+          "width": 210,
+          "height": 50
+        },
+        "shape": "super-node",
+        "id": "a0b15b8c-13fe-47df-9e12-8f8563ee4f11",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "##",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 30,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontFamily": "数字-1234567890-5"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_11",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "format": {
+            "point": {
+              "mpKey": "wwgYgizG2g58JpBTN6JMF",
+              "attrKey": "F_lrShh_hz-Yvb_q_nAyW",
+              "mpId": 1,
+              "attrId": 1
+            },
+            "selector": "text",
+            "decimalNum": 2,
+            "multiplier": 1,
+            "unit": "℃"
+          }
+        },
+        "zIndex": 38,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 802.0000000000005,
+          "y": 934.9999999999995
+        },
+        "size": {
+          "width": 130,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "54455d38-5fe0-49e2-b0d4-94b96dab8dcc",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "回水温度",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 39,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 930.0000000000002,
+          "y": 928.0000000000068
+        },
+        "size": {
+          "width": 210,
+          "height": 50
+        },
+        "shape": "super-node",
+        "id": "db46ec6d-d552-459d-9ba7-cd9576cb3ea0",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "##",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 30,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontFamily": "数字-1234567890-5"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_11",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "format": {
+            "point": {
+              "mpKey": "wwgYgizG2g58JpBTN6JMF",
+              "attrKey": "F_lrShh_hz-Yvb_q_nAyW",
+              "mpId": 1,
+              "attrId": 1
+            },
+            "selector": "text",
+            "decimalNum": 2,
+            "multiplier": 1,
+            "unit": "℃"
+          }
+        },
+        "zIndex": 40,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 930.0000000000002,
+          "y": 960.9999999999995
+        },
+        "size": {
+          "width": 210,
+          "height": 50
+        },
+        "shape": "super-node",
+        "id": "6ca0acf4-e370-4b81-a80c-b5f6d8e2db77",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "##",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 30,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontFamily": "数字-1234567890-5"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_11",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "format": {
+            "point": {
+              "mpKey": "wwgYgizG2g58JpBTN6JMF",
+              "attrKey": "F_lrShh_hz-Yvb_q_nAyW",
+              "mpId": 1,
+              "attrId": 1
+            },
+            "selector": "text",
+            "decimalNum": 2,
+            "multiplier": 1,
+            "unit": "℃"
+          }
+        },
+        "zIndex": 41,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 802.0000000000005,
+          "y": 967.9999999999995
+        },
+        "size": {
+          "width": 130,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "493a9ffb-5bed-45ad-80f1-f6ac0424f087",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "送水压力",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 42,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 802.0000000000005,
+          "y": 1000.9999999999995
+        },
+        "size": {
+          "width": 130,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "fdf8e426-fafa-41b3-a86d-e86c70ae6510",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "回水压力",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 43,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 139.9999999999999,
+          "y": 430.00000000000017
+        },
+        "size": {
+          "width": 420,
+          "height": 160
+        },
+        "shape": "super-node",
+        "id": "3d7c4a01-72f7-42d1-9568-6eb49f743272",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "rgba(29, 105, 245, 1)",
+            "fill": "rgba(4, 46, 123, 0.47)"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_8",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true,
+        "zIndex": 44
+      },
+      {
+        "position": {
+          "x": 150,
+          "y": 460.0000000000001
+        },
+        "size": {
+          "width": 70,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "aec2a49a-ea2f-4b75-ae17-6f921017c045",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "状态：",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true,
+        "zIndex": 45
+      },
+      {
+        "position": {
+          "x": 230.3333333333334,
+          "y": 455.5000000000001
+        },
+        "size": {
+          "width": 39,
+          "height": 39
+        },
+        "shape": "super-node",
+        "id": "4a352906-c356-432c-9878-d01c0b4fe757",
+        "preserveAspectRatio": true,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "边框",
+                    "tagName": "rect",
+                    "selector": "body"
+                  },
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "body": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "stroke": "rgba(100, 182, 247, 1)",
+            "strokeWidth": 1,
+            "fill": "rgba(201, 231, 255, 1)"
+          },
+          "text": {
+            "text": "自",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(0, 0, 0, 1)",
+            "fontSize": 27,
+            "textWrap": {
+              "width": "100%",
+              "height": "100%",
+              "ellipsis": true,
+              "breakWord": false
+            },
+            "fontWeight": "bold"
+          }
+        },
+        "label": "文本",
+        "nodeName": "文本_40",
+        "zIndex": 46,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 279.6666666666668,
+          "y": 455.0000000000001
+        },
+        "size": {
+          "width": 120,
+          "height": 40
+        },
+        "shape": "super-node",
+        "id": "a91d2020-a67b-4b5e-8960-d3acb8b9147c",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "边框",
+                    "tagName": "rect",
+                    "selector": "body"
+                  },
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "body": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "stroke": "rgba(100, 182, 247, 1)",
+            "strokeWidth": 1,
+            "fill": "#FFFF00"
+          },
+          "text": {
+            "text": "控制超时",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(0, 0, 0, 1)",
+            "fontSize": 27,
+            "textWrap": {
+              "width": "100%",
+              "height": "100%",
+              "ellipsis": true,
+              "breakWord": false
+            },
+            "fontWeight": "bold"
+          }
+        },
+        "label": "文本",
+        "nodeName": "文本_40",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 51,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 410.0000000000002,
+          "y": 455.0000000000001
+        },
+        "size": {
+          "width": 120,
+          "height": 40
+        },
+        "shape": "super-node",
+        "id": "76a34d81-d744-441a-9e9e-924446f84701",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "边框",
+                    "tagName": "rect",
+                    "selector": "body"
+                  },
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "body": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "stroke": "rgba(100, 182, 247, 1)",
+            "strokeWidth": 1,
+            "fill": "#FFFF00"
+          },
+          "text": {
+            "text": "模式不符",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(0, 0, 0, 1)",
+            "fontSize": 27,
+            "textWrap": {
+              "width": "100%",
+              "height": "100%",
+              "ellipsis": true,
+              "breakWord": false
+            },
+            "fontWeight": "bold"
+          }
+        },
+        "label": "文本",
+        "nodeName": "文本_40",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 52,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 149,
+          "y": 506.0000000000001
+        },
+        "size": {
+          "width": 119.33333333333337,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "d4baa18e-7865-4be4-a2e7-879df735c9c6",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "运行状态：",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true,
+        "zIndex": 53
+      },
+      {
+        "position": {
+          "x": 149,
+          "y": 548.0000000000001
+        },
+        "size": {
+          "width": 119.33333333333337,
+          "height": 30
+        },
+        "shape": "super-node",
+        "id": "ba28082b-0835-44b0-8cd5-3bb779e89867",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "控制模式：",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 22,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "normal"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_9",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true,
+        "zIndex": 54
+      },
+      {
+        "position": {
+          "x": 299,
+          "y": 507.00000000000006
+        },
+        "size": {
+          "width": 230,
+          "height": 31
+        },
+        "shape": "super-node",
+        "id": "2c13895f-6f95-466e-921b-16c160d2fe74",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "边框",
+                    "tagName": "rect",
+                    "selector": "body"
+                  },
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "body": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "stroke": "#0709E7",
+            "strokeWidth": 1,
+            "fill": "#000000"
+          },
+          "text": {
+            "text": "###",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 20,
+            "textWrap": {
+              "width": "100%",
+              "height": "100%",
+              "ellipsis": true,
+              "breakWord": false
+            },
+            "fontWeight": "bold"
+          }
+        },
+        "label": "文本",
+        "nodeName": "文本_46",
+        "zIndex": 56,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}>0",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "style"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                },
+                "style": [
+                  {
+                    "type": "change",
+                    "attrName": "text/text",
+                    "attrValue": "正常",
+                    "orgAttrValue": "###"
+                  }
+                ]
+              },
+              "result": true
+            },
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===0",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": "1",
+                  "attrId": "2"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "style",
+                  "animation"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "text"
+                  ],
+                  "effect": [
+                    {
+                      "key": "glimmer",
+                      "name": "闪烁",
+                      "class": "glimmer"
+                    }
+                  ]
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                },
+                "style": [
+                  {
+                    "type": "change",
+                    "attrName": "text/text",
+                    "attrValue": "异常",
+                    "orgAttrValue": "###"
+                  },
+                  {
+                    "type": "change",
+                    "attrName": "text/fill",
+                    "attrValue": "rgba(254, 254, 254, 1)",
+                    "orgAttrValue": "#00FF00"
+                  },
+                  {
+                    "type": "change",
+                    "attrName": "body/fill",
+                    "attrValue": "rgba(252, 0, 0, 1)",
+                    "orgAttrValue": "#000000"
+                  }
+                ]
+              },
+              "result": true
+            }
+          ]
+        },
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 300,
+          "y": 545.0000000000009
+        },
+        "size": {
+          "width": 230,
+          "height": 31
+        },
+        "shape": "super-node",
+        "id": "adba2d93-5d4c-49f2-8fcd-4a0bfc61a56a",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "边框",
+                    "tagName": "rect",
+                    "selector": "body"
+                  },
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "body": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "stroke": "#0709E7",
+            "strokeWidth": 1,
+            "fill": "#000000"
+          },
+          "text": {
+            "text": "###",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 20,
+            "textWrap": {
+              "width": "100%",
+              "height": "100%",
+              "ellipsis": true,
+              "breakWord": false
+            },
+            "fontWeight": "bold"
+          }
+        },
+        "label": "文本",
+        "nodeName": "文本_46",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}>0",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "style"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                },
+                "style": [
+                  {
+                    "type": "change",
+                    "attrName": "text/text",
+                    "attrValue": "正常",
+                    "orgAttrValue": "###"
+                  }
+                ]
+              },
+              "result": true
+            },
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===0",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": "1",
+                  "attrId": "2"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "style",
+                  "animation"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "text"
+                  ],
+                  "effect": [
+                    {
+                      "key": "glimmer",
+                      "name": "闪烁",
+                      "class": "glimmer"
+                    }
+                  ]
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                },
+                "style": [
+                  {
+                    "type": "change",
+                    "attrName": "text/text",
+                    "attrValue": "异常",
+                    "orgAttrValue": "###"
+                  },
+                  {
+                    "type": "change",
+                    "attrName": "text/fill",
+                    "attrValue": "rgba(254, 254, 254, 1)",
+                    "orgAttrValue": "#00FF00"
+                  },
+                  {
+                    "type": "change",
+                    "attrName": "body/fill",
+                    "attrValue": "rgba(252, 0, 0, 1)",
+                    "orgAttrValue": "#000000"
+                  }
+                ]
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 61,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 160.00000000000028,
+          "y": 374.3000000000002
+        },
+        "size": {
+          "width": 234.6153846153846,
+          "height": 50
+        },
+        "shape": "super-node",
+        "id": "514e91cb-815f-432f-b011-bc3438ec57d6",
+        "preserveAspectRatio": true,
+        "nodeName": "图片_46",
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "图片",
+                    "tagName": "image",
+                    "selector": "body",
+                    "attrs": {
+                      "preserveAspectRatio": "none",
+                      "width": 300,
+                      "height": 63.93442622950819
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "body": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "href": "webtopo/decorate/textb/6.png"
+          }
+        },
+        "zIndex": 62,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 166.00000000000028,
+          "y": 379.3
+        },
+        "size": {
+          "width": 210,
+          "height": 40
+        },
+        "shape": "super-node",
+        "id": "ff4a5531-9f1d-4246-9b6e-905e6e360d50",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "冷水机系统",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 30,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "bold"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_48",
+        "zIndex": 63,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_left_top",
+        "lock": true,
+        "zIndex": 64
+      },
+      {
+        "position": {
+          "x": 1679,
+          "y": 0
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_right_top",
+        "lock": true,
+        "zIndex": 66
+      },
+      {
+        "position": {
+          "x": 0,
+          "y": 1049
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_left_bottom",
+        "lock": true,
+        "zIndex": 67
+      },
+      {
+        "position": {
+          "x": 1679,
+          "y": 1049
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_bottom_bottom",
+        "lock": true,
+        "zIndex": 68
+      }
+    ]
+  },
+  "points": [
+    {
+      "mpKey": "wwgYgizG2g58JpBTN6JMF",
+      "attrKey": "F_lrShh_hz-Yvb_q_nAyW",
+      "mpId": 1,
+      "mpName": "测量点1",
+      "attrId": 1,
+      "attrName": "A相电压"
+    },
+    {
+      "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+      "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+      "mpId": 1,
+      "mpName": "测量点1",
+      "attrId": 2,
+      "attrName": "B相电压"
+    }
+  ]
+}

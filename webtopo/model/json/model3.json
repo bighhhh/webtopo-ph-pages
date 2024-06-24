@@ -1,0 +1,426 @@
+{
+  "graph": {
+    "backgroundColor": "#000",
+    "backgroundImg": "",
+    "pageSize": {
+      "key": "1680*1050(8:5)",
+      "width": 1680,
+      "height": 1050
+    },
+    "contentAdaptation": "fullAll"
+  },
+  "cells": {
+    "cells": [
+      {
+        "position": {
+          "x": 1160,
+          "y": 400.00000000000097
+        },
+        "size": {
+          "width": 280,
+          "height": 150
+        },
+        "shape": "super-node",
+        "id": "1c39bf7f-b794-45da-9000-68616af366cc",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "selectorRect",
+                    "attrs": {
+                      "x": 0,
+                      "y": 0,
+                      "fill": "none",
+                      "pointerEvents": "visible"
+                    }
+                  },
+                  {
+                    "name": "图片",
+                    "tagName": "image",
+                    "selector": "body",
+                    "attrs": {
+                      "width": "204px",
+                      "height": "204px"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "selectorRect": {
+            "refWidth": 1,
+            "refHeight": 1
+          },
+          "body": {
+            "preserveAspectRatio": "none meet",
+            "refWidth": 1,
+            "refHeight": 1,
+            "href": "webtopo/nodes/Vehicles/18-WheelerTruck.svg"
+          }
+        },
+        "label": "18轮卡车",
+        "nodeName": "18轮卡车_8",
+        "zIndex": 12,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{6SSY7JgOR0zD48sO-eDKG.InXdsCFlrNWZKSKXyGFz1}",
+              "points": [
+                {
+                  "mpKey": "6SSY7JgOR0zD48sO-eDKG",
+                  "attrKey": "InXdsCFlrNWZKSKXyGFz1",
+                  "mpId": 1,
+                  "attrId": 1
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "transition"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "target": {
+                      "x": 240,
+                      "y": 400
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        }
+      },
+      {
+        "position": {
+          "x": 657,
+          "y": 180.00000000000057
+        },
+        "size": {
+          "width": 390,
+          "height": 80
+        },
+        "shape": "super-node",
+        "id": "add196d8-4f69-462d-bca9-28abaeb0b335",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "点击此处启动汽车",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            }
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_7",
+        "zIndex": 17,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "events": [
+          {
+            "id": "nXXDV0O4eu_gMPEEcimgR",
+            "eventType": "click",
+            "actionType": "data",
+            "formType": "tooltip",
+            "menuTitle": "",
+            "actions": [
+              {
+                "id": "HkcwW80KQD-hkRvIjZwNB",
+                "dataActionType": "setdata",
+                "type": "button",
+                "title": "运行",
+                "value": "100",
+                "url": "",
+                "blueprint": null,
+                "point": {
+                  "id": "",
+                  "mpId": 1,
+                  "mpName": "",
+                  "attrId": 1,
+                  "attrName": "",
+                  "multiple": 1,
+                  "decimal": 2,
+                  "mpKey": "6SSY7JgOR0zD48sO-eDKG",
+                  "attrKey": "InXdsCFlrNWZKSKXyGFz1"
+                },
+                "texts": [
+                  {
+                    "value": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "qJ1eb9q55BLH5s3tHKn0j",
+                "dataActionType": "setdata",
+                "type": "button",
+                "title": "归位",
+                "value": "0",
+                "url": "",
+                "blueprint": null,
+                "point": {
+                  "id": "",
+                  "mpId": 1,
+                  "mpName": "",
+                  "attrId": 1,
+                  "attrName": "",
+                  "multiple": 1,
+                  "decimal": 2,
+                  "mpKey": "6SSY7JgOR0zD48sO-eDKG",
+                  "attrKey": "InXdsCFlrNWZKSKXyGFz1"
+                },
+                "texts": [
+                  {
+                    "value": "",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_left_top",
+        "zIndex": 18
+      },
+      {
+        "position": {
+          "x": 1679,
+          "y": 0
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_right_top",
+        "zIndex": 19
+      },
+      {
+        "position": {
+          "x": 0,
+          "y": 1049
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_left_bottom",
+        "zIndex": 20
+      },
+      {
+        "position": {
+          "x": 1679,
+          "y": 1049
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_bottom_bottom",
+        "zIndex": 21
+      },
+      {
+        "position": {
+          "x": 140,
+          "y": 425.00000000000097
+        },
+        "size": {
+          "width": 100,
+          "height": 100
+        },
+        "shape": "super-node",
+        "id": "857da141-54e3-4627-96da-10838c53d684",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "终点",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            }
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_7",
+        "zIndex": 22,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)"
+      },
+      {
+        "position": {
+          "x": 1472,
+          "y": 425.00000000000097
+        },
+        "size": {
+          "width": 100,
+          "height": 100
+        },
+        "shape": "super-node",
+        "id": "514c13de-4b14-426f-bc13-e0e6c7867dfb",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "起点",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            }
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_7",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 23
+      }
+    ]
+  },
+  "points": [
+    {
+      "mpKey": "6SSY7JgOR0zD48sO-eDKG",
+      "attrKey": "InXdsCFlrNWZKSKXyGFz1",
+      "mpId": 1,
+      "mpName": "测量点1",
+      "attrId": 1,
+      "attrName": "A相电压"
+    }
+  ]
+}
