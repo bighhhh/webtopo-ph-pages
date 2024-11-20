@@ -520,7 +520,7 @@
           "body": {
             "refWidth": 1,
             "refHeight": 1,
-            "href": "webtopo/nodes/img/huiliubeng.svg"
+            "xlinkHref": "webtopo/nodes/img/huiliubeng.svg"
           },
           "d3-group-node": {
             "style": {
@@ -575,7 +575,7 @@
           "body": {
             "refWidth": 1,
             "refHeight": 1,
-            "href": "webtopo/nodes/img/shuiguan.svg"
+            "xlinkHref": "webtopo/nodes/img/shuiguan.svg"
           },
           "d3-group-node": {
             "style": {
@@ -628,7 +628,7 @@
           "body": {
             "refWidth": 1,
             "refHeight": 1,
-            "href": "webtopo/nodes/img/fan2.png"
+            "xlinkHref": "webtopo/nodes/img/fan2.png"
           },
           "d3-group-node": {
             "style": {
@@ -880,7 +880,7 @@
             "visibility": "hidden",
             "refWidth": 1,
             "refHeight": 1,
-            "href": "webtopo/nodes/img/spray.gif"
+            "xlinkHref": "webtopo/nodes/img/spray.gif"
           },
           "cist": {
             "fill": "#37cfe7",
@@ -1277,7 +1277,7 @@
           "body": {
             "refWidth": 1,
             "refHeight": 1,
-            "href": "webtopo/nodes/Animation/Gear.svg"
+            "xlinkHref": "webtopo/nodes/Animation/Gear.svg"
           },
           "d3-group-node": {
             "style": {
@@ -2035,7 +2035,7 @@
           "body": {
             "refWidth": 1,
             "refHeight": 1,
-            "href": "webtopo/nodes/Animation/Gear.svg",
+            "xlinkHref": "webtopo/nodes/Animation/Gear.svg",
             "style": {
               "animation": "none"
             }
@@ -2625,7 +2625,7 @@
             "preserveAspectRatio": "none meet",
             "refWidth": 1,
             "refHeight": 1,
-            "href": "webtopo/nodes/Pipes-Overlays+Arrows/ArrowDown.svg"
+            "xlinkHref": "webtopo/nodes/Pipes-Overlays+Arrows/ArrowDown.svg"
           }
         },
         "label": "向下箭头",
@@ -2761,7 +2761,7 @@
                 "style": [
                   {
                     "type": "change",
-                    "attrName": "body/href",
+                    "attrName": "body/xlinkHref",
                     "attrValue": "webtopo/nodes/Pipes-Overlays+Arrows/ArrowUp.svg",
                     "orgAttrValue": "webtopo/nodes/Pipes-Overlays+Arrows/ArrowDown.svg"
                   }

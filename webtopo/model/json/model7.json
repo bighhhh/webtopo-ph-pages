@@ -1,7 +1,7 @@
 {
   "graph": {
     "backgroundColor": "rgba(9, 17, 42, 1)",
-    "backgroundImg": "",
+    "backgroundImg": "webtopo/background/backgroundH33.jpg",
     "pageSize": {
       "key": "1680*1050(8:5)",
       "width": 1680,
@@ -13,52 +13,6 @@
     "cells": [
       {
         "position": {
-          "x": 139.99999999999977,
-          "y": 359.00000000000136
-        },
-        "size": {
-          "width": 420,
-          "height": 230.99999999999886
-        },
-        "shape": "super-node",
-        "id": "7cfaccdb-40f6-4b65-a8c9-d34f14dbf07d",
-        "preserveAspectRatio": false,
-        "markup": [
-          {
-            "tagName": "g",
-            "selector": "d3-group-node",
-            "children": [
-              {
-                "tagName": "g",
-                "selector": "super-group-node",
-                "children": [
-                  {
-                    "tagName": "rect",
-                    "selector": "rect"
-                  }
-                ]
-              }
-            ]
-          }
-        ],
-        "attrs": {
-          "rect": {
-            "refWidth": 1,
-            "refHeight": 1,
-            "strokeWidth": 1,
-            "stroke": "#5F95FF",
-            "fill": "rgba(5, 82, 254, 0.43)"
-          }
-        },
-        "label": "矩形",
-        "nodeName": "矩形_49",
-        "zIndex": 4,
-        "data": {},
-        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
-        "lock": true
-      },
-      {
-        "position": {
           "x": 20,
           "y": 180.00000000000728
         },
@@ -66,6 +20,7 @@
           "width": 1640,
           "height": 810
         },
+        "visible": true,
         "shape": "super-node",
         "id": "b3d3c34c-6292-4b33-8c85-62abafc1f370",
         "preserveAspectRatio": false,
@@ -116,10 +71,62 @@
         },
         "label": "测试",
         "nodeName": "测试_5",
-        "zIndex": 5,
+        "zIndex": 0,
         "data": {},
         "rotate3d": "rotate3d(1, 1, 1, 0deg)",
         "lock": true
+      },
+      {
+        "position": {
+          "x": 413,
+          "y": 295
+        },
+        "size": {
+          "width": 420,
+          "height": 216
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "7cfaccdb-40f6-4b65-a8c9-d34f14dbf07d",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "#5F95FF",
+            "fill": "rgba(5, 82, 254, 0.43)"
+          },
+          "d3-group-node": {
+            "group": "group-lock"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_49",
+        "zIndex": 4,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": false,
+        "group-lock": true,
+        "parent": "97859db7-a0de-487a-a85b-5328635104cb"
       },
       {
         "position": {
@@ -130,6 +137,7 @@
           "width": 1639.9999999999998,
           "height": 92.46808510638301
         },
+        "visible": true,
         "shape": "super-node",
         "id": "85885169-98b4-4853-8993-ea0a57aad790",
         "preserveAspectRatio": true,
@@ -178,6 +186,7 @@
           "width": 230,
           "height": 91.46808510638287
         },
+        "visible": true,
         "shape": "super-node",
         "id": "80b167e3-3a4d-4ff8-84fc-2a6e47757307",
         "preserveAspectRatio": false,
@@ -231,6 +240,7 @@
           "width": 350,
           "height": 178.99999999999977
         },
+        "visible": true,
         "shape": "super-node",
         "id": "436d140f-e1ae-4b53-970b-7191d58a3966",
         "preserveAspectRatio": false,
@@ -277,6 +287,7 @@
           "width": 240,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "0e8f349d-3d48-4b83-91e6-d3e2b9117305",
         "preserveAspectRatio": false,
@@ -332,6 +343,7 @@
           "width": 130,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "c0496ce5-dee3-4e4c-a597-7eef9fd290be",
         "preserveAspectRatio": false,
@@ -387,6 +399,7 @@
           "width": 210,
           "height": 50
         },
+        "visible": true,
         "shape": "super-node",
         "id": "8efaa20e-33a2-4b40-ae48-d67d7594db43",
         "preserveAspectRatio": false,
@@ -456,6 +469,7 @@
           "width": 210,
           "height": 50
         },
+        "visible": true,
         "shape": "super-node",
         "id": "90ed9bf2-263e-4ee6-beb8-dadb584f58da",
         "preserveAspectRatio": false,
@@ -525,6 +539,7 @@
           "width": 130,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "11253164-227e-4b06-abca-d9a7063011a9",
         "preserveAspectRatio": false,
@@ -580,6 +595,7 @@
           "width": 210,
           "height": 50
         },
+        "visible": true,
         "shape": "super-node",
         "id": "b62ebabe-afde-4f48-a6c0-00c36a2e9344",
         "preserveAspectRatio": false,
@@ -649,6 +665,7 @@
           "width": 210,
           "height": 50
         },
+        "visible": true,
         "shape": "super-node",
         "id": "ec6320de-44de-4622-8529-79228282ef53",
         "preserveAspectRatio": false,
@@ -718,6 +735,7 @@
           "width": 130,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "5ed95c8f-d7a2-44d5-a2a7-aa1221e58a46",
         "preserveAspectRatio": false,
@@ -773,6 +791,7 @@
           "width": 130,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "cf70caa5-3e21-4020-9fcb-21d06e73ad6b",
         "preserveAspectRatio": false,
@@ -828,6 +847,7 @@
           "width": 350,
           "height": 178.99999999999977
         },
+        "visible": true,
         "shape": "super-node",
         "id": "815ac1c5-72fa-4600-8716-835f156fe516",
         "preserveAspectRatio": false,
@@ -874,6 +894,7 @@
           "width": 240,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "d252b711-1486-4e9a-a683-eb9819d68e70",
         "preserveAspectRatio": false,
@@ -929,6 +950,7 @@
           "width": 130,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "2524bd1c-37dd-422f-9e88-b96c5473c775",
         "preserveAspectRatio": false,
@@ -984,6 +1006,7 @@
           "width": 210,
           "height": 50
         },
+        "visible": true,
         "shape": "super-node",
         "id": "8ef17f96-acf4-4bba-b59c-20530b8afcf8",
         "preserveAspectRatio": false,
@@ -1053,6 +1076,7 @@
           "width": 210,
           "height": 50
         },
+        "visible": true,
         "shape": "super-node",
         "id": "3e9ada71-65bb-45d6-ad0d-e3f6c6a55025",
         "preserveAspectRatio": false,
@@ -1122,6 +1146,7 @@
           "width": 130,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "72c3ea7d-b877-4f61-9426-d2006b63fd7a",
         "preserveAspectRatio": false,
@@ -1177,6 +1202,7 @@
           "width": 210,
           "height": 50
         },
+        "visible": true,
         "shape": "super-node",
         "id": "9746a6b4-0ffe-478a-8f68-9803b463b864",
         "preserveAspectRatio": false,
@@ -1246,6 +1272,7 @@
           "width": 210,
           "height": 50
         },
+        "visible": true,
         "shape": "super-node",
         "id": "f6cb4778-5ad4-4499-9da2-d3e87b20298a",
         "preserveAspectRatio": false,
@@ -1315,6 +1342,7 @@
           "width": 130,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "245f44a9-0431-430f-a2e2-a4fe7c26f154",
         "preserveAspectRatio": false,
@@ -1370,6 +1398,7 @@
           "width": 130,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "40521001-e31e-4e53-89ea-8eaf739c7091",
         "preserveAspectRatio": false,
@@ -1425,6 +1454,7 @@
           "width": 350,
           "height": 178.99999999999977
         },
+        "visible": true,
         "shape": "super-node",
         "id": "9074ae4b-3ce7-4774-a195-65e80ea4946a",
         "preserveAspectRatio": false,
@@ -1471,6 +1501,7 @@
           "width": 240,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "5d189baf-c263-4eb1-a4ec-ab0f0c2578de",
         "preserveAspectRatio": false,
@@ -1526,6 +1557,7 @@
           "width": 130,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "69027bf9-229c-4205-90b8-acba3cfac9d4",
         "preserveAspectRatio": false,
@@ -1581,6 +1613,7 @@
           "width": 210,
           "height": 50
         },
+        "visible": true,
         "shape": "super-node",
         "id": "4a65040c-ade8-4cee-8584-cd5bb79a39da",
         "preserveAspectRatio": false,
@@ -1650,6 +1683,7 @@
           "width": 210,
           "height": 50
         },
+        "visible": true,
         "shape": "super-node",
         "id": "a0b15b8c-13fe-47df-9e12-8f8563ee4f11",
         "preserveAspectRatio": false,
@@ -1719,6 +1753,7 @@
           "width": 130,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "54455d38-5fe0-49e2-b0d4-94b96dab8dcc",
         "preserveAspectRatio": false,
@@ -1774,6 +1809,7 @@
           "width": 210,
           "height": 50
         },
+        "visible": true,
         "shape": "super-node",
         "id": "db46ec6d-d552-459d-9ba7-cd9576cb3ea0",
         "preserveAspectRatio": false,
@@ -1843,6 +1879,7 @@
           "width": 210,
           "height": 50
         },
+        "visible": true,
         "shape": "super-node",
         "id": "6ca0acf4-e370-4b81-a80c-b5f6d8e2db77",
         "preserveAspectRatio": false,
@@ -1912,6 +1949,7 @@
           "width": 130,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "493a9ffb-5bed-45ad-80f1-f6ac0424f087",
         "preserveAspectRatio": false,
@@ -1967,6 +2005,7 @@
           "width": 130,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "fdf8e426-fafa-41b3-a86d-e86c70ae6510",
         "preserveAspectRatio": false,
@@ -2015,13 +2054,14 @@
       },
       {
         "position": {
-          "x": 139.9999999999999,
-          "y": 430.00000000000017
+          "x": 413,
+          "y": 350.9999999999993
         },
         "size": {
           "width": 420,
           "height": 160
         },
+        "visible": true,
         "shape": "super-node",
         "id": "3d7c4a01-72f7-42d1-9568-6eb49f743272",
         "preserveAspectRatio": false,
@@ -2050,24 +2090,30 @@
             "strokeWidth": 1,
             "stroke": "rgba(29, 105, 245, 1)",
             "fill": "rgba(4, 46, 123, 0.47)"
+          },
+          "d3-group-node": {
+            "group": "group-lock"
           }
         },
         "label": "矩形",
         "nodeName": "矩形_8",
         "data": {},
         "rotate3d": "rotate3d(1, 1, 1, 0deg)",
-        "lock": true,
-        "zIndex": 44
+        "lock": false,
+        "zIndex": 44,
+        "group-lock": true,
+        "parent": "97859db7-a0de-487a-a85b-5328635104cb"
       },
       {
         "position": {
-          "x": 150,
-          "y": 460.0000000000001
+          "x": 423,
+          "y": 380.9999999999993
         },
         "size": {
           "width": 70,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "aec2a49a-ea2f-4b75-ae17-6f921017c045",
         "preserveAspectRatio": false,
@@ -2105,24 +2151,30 @@
               "ellipsis": false
             },
             "fontWeight": "normal"
+          },
+          "d3-group-node": {
+            "group": "group-lock"
           }
         },
         "label": "标题",
         "nodeName": "标题_9",
         "data": {},
         "rotate3d": "rotate3d(1, 1, 1, 0deg)",
-        "lock": true,
-        "zIndex": 45
+        "lock": false,
+        "zIndex": 45,
+        "group-lock": true,
+        "parent": "97859db7-a0de-487a-a85b-5328635104cb"
       },
       {
         "position": {
-          "x": 230.3333333333334,
-          "y": 455.5000000000001
+          "x": 503.3333333333335,
+          "y": 376.4999999999993
         },
         "size": {
           "width": 39,
           "height": 39
         },
+        "visible": true,
         "shape": "super-node",
         "id": "4a352906-c356-432c-9878-d01c0b4fe757",
         "preserveAspectRatio": true,
@@ -2173,6 +2225,9 @@
               "breakWord": false
             },
             "fontWeight": "bold"
+          },
+          "d3-group-node": {
+            "group": "group-lock"
           }
         },
         "label": "文本",
@@ -2180,17 +2235,20 @@
         "zIndex": 46,
         "data": {},
         "rotate3d": "rotate3d(1, 1, 1, 0deg)",
-        "lock": true
+        "lock": false,
+        "group-lock": true,
+        "parent": "97859db7-a0de-487a-a85b-5328635104cb"
       },
       {
         "position": {
-          "x": 279.6666666666668,
-          "y": 455.0000000000001
+          "x": 552.666666666667,
+          "y": 375.9999999999993
         },
         "size": {
           "width": 120,
           "height": 40
         },
+        "visible": true,
         "shape": "super-node",
         "id": "a91d2020-a67b-4b5e-8960-d3acb8b9147c",
         "preserveAspectRatio": false,
@@ -2241,6 +2299,9 @@
               "breakWord": false
             },
             "fontWeight": "bold"
+          },
+          "d3-group-node": {
+            "group": "group-lock"
           }
         },
         "label": "文本",
@@ -2248,17 +2309,20 @@
         "data": {},
         "rotate3d": "rotate3d(1, 1, 1, 0deg)",
         "zIndex": 51,
-        "lock": true
+        "lock": false,
+        "group-lock": true,
+        "parent": "97859db7-a0de-487a-a85b-5328635104cb"
       },
       {
         "position": {
-          "x": 410.0000000000002,
-          "y": 455.0000000000001
+          "x": 683.0000000000005,
+          "y": 375.9999999999993
         },
         "size": {
           "width": 120,
           "height": 40
         },
+        "visible": true,
         "shape": "super-node",
         "id": "76a34d81-d744-441a-9e9e-924446f84701",
         "preserveAspectRatio": false,
@@ -2309,6 +2373,9 @@
               "breakWord": false
             },
             "fontWeight": "bold"
+          },
+          "d3-group-node": {
+            "group": "group-lock"
           }
         },
         "label": "文本",
@@ -2316,17 +2383,20 @@
         "data": {},
         "rotate3d": "rotate3d(1, 1, 1, 0deg)",
         "zIndex": 52,
-        "lock": true
+        "lock": false,
+        "group-lock": true,
+        "parent": "97859db7-a0de-487a-a85b-5328635104cb"
       },
       {
         "position": {
-          "x": 149,
-          "y": 506.0000000000001
+          "x": 422,
+          "y": 426.9999999999993
         },
         "size": {
           "width": 119.33333333333337,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "d4baa18e-7865-4be4-a2e7-879df735c9c6",
         "preserveAspectRatio": false,
@@ -2364,24 +2434,30 @@
               "ellipsis": false
             },
             "fontWeight": "normal"
+          },
+          "d3-group-node": {
+            "group": "group-lock"
           }
         },
         "label": "标题",
         "nodeName": "标题_9",
         "data": {},
         "rotate3d": "rotate3d(1, 1, 1, 0deg)",
-        "lock": true,
-        "zIndex": 53
+        "lock": false,
+        "zIndex": 53,
+        "group-lock": true,
+        "parent": "97859db7-a0de-487a-a85b-5328635104cb"
       },
       {
         "position": {
-          "x": 149,
-          "y": 548.0000000000001
+          "x": 422,
+          "y": 468.9999999999993
         },
         "size": {
           "width": 119.33333333333337,
           "height": 30
         },
+        "visible": true,
         "shape": "super-node",
         "id": "ba28082b-0835-44b0-8cd5-3bb779e89867",
         "preserveAspectRatio": false,
@@ -2419,24 +2495,30 @@
               "ellipsis": false
             },
             "fontWeight": "normal"
+          },
+          "d3-group-node": {
+            "group": "group-lock"
           }
         },
         "label": "标题",
         "nodeName": "标题_9",
         "data": {},
         "rotate3d": "rotate3d(1, 1, 1, 0deg)",
-        "lock": true,
-        "zIndex": 54
+        "lock": false,
+        "zIndex": 54,
+        "group-lock": true,
+        "parent": "97859db7-a0de-487a-a85b-5328635104cb"
       },
       {
         "position": {
-          "x": 299,
-          "y": 507.00000000000006
+          "x": 572,
+          "y": 427.9999999999992
         },
         "size": {
-          "width": 230,
+          "width": 230.00000000000003,
           "height": 31
         },
+        "visible": true,
         "shape": "super-node",
         "id": "2c13895f-6f95-466e-921b-16c160d2fe74",
         "preserveAspectRatio": false,
@@ -2487,6 +2569,9 @@
               "breakWord": false
             },
             "fontWeight": "bold"
+          },
+          "d3-group-node": {
+            "group": "group-lock"
           }
         },
         "label": "文本",
@@ -2645,17 +2730,20 @@
             }
           ]
         },
-        "lock": true
+        "lock": false,
+        "group-lock": true,
+        "parent": "97859db7-a0de-487a-a85b-5328635104cb"
       },
       {
         "position": {
-          "x": 300,
-          "y": 545.0000000000009
+          "x": 573,
+          "y": 466
         },
         "size": {
-          "width": 230,
+          "width": 230.00000000000003,
           "height": 31
         },
+        "visible": true,
         "shape": "super-node",
         "id": "adba2d93-5d4c-49f2-8fcd-4a0bfc61a56a",
         "preserveAspectRatio": false,
@@ -2706,6 +2794,9 @@
               "breakWord": false
             },
             "fontWeight": "bold"
+          },
+          "d3-group-node": {
+            "group": "group-lock"
           }
         },
         "label": "文本",
@@ -2864,17 +2955,20 @@
           ]
         },
         "zIndex": 61,
-        "lock": true
+        "lock": false,
+        "group-lock": true,
+        "parent": "97859db7-a0de-487a-a85b-5328635104cb"
       },
       {
         "position": {
-          "x": 160.00000000000028,
-          "y": 374.3000000000002
+          "x": 433.00000000000045,
+          "y": 295.2999999999993
         },
         "size": {
           "width": 234.6153846153846,
           "height": 50
         },
+        "visible": true,
         "shape": "super-node",
         "id": "514e91cb-815f-432f-b011-bc3438ec57d6",
         "preserveAspectRatio": true,
@@ -2908,22 +3002,28 @@
             "refWidth": 1,
             "refHeight": 1,
             "href": "webtopo/decorate/textb/6.png"
+          },
+          "d3-group-node": {
+            "group": "group-lock"
           }
         },
         "zIndex": 62,
         "data": {},
         "rotate3d": "rotate3d(1, 1, 1, 0deg)",
-        "lock": true
+        "lock": false,
+        "group-lock": true,
+        "parent": "97859db7-a0de-487a-a85b-5328635104cb"
       },
       {
         "position": {
-          "x": 166.00000000000028,
-          "y": 379.3
+          "x": 439.00000000000045,
+          "y": 300.29999999999916
         },
         "size": {
           "width": 210,
           "height": 40
         },
+        "visible": true,
         "shape": "super-node",
         "id": "ff4a5531-9f1d-4246-9b6e-905e6e360d50",
         "preserveAspectRatio": false,
@@ -2961,6 +3061,9 @@
               "ellipsis": false
             },
             "fontWeight": "bold"
+          },
+          "d3-group-node": {
+            "group": "group-lock"
           }
         },
         "label": "标题",
@@ -2968,7 +3071,3013 @@
         "zIndex": 63,
         "data": {},
         "rotate3d": "rotate3d(1, 1, 1, 0deg)",
-        "lock": true
+        "lock": false,
+        "group-lock": true,
+        "parent": "97859db7-a0de-487a-a85b-5328635104cb"
+      },
+      {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "super-node",
+        "id": "alarm_node_id",
+        "markup": [
+          {
+            "tagName": "rect"
+          }
+        ],
+        "lock": true,
+        "zIndex": 69
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "ccbaf86c-a8ec-436c-8f8e-5eb4b6339dea",
+        "nodeName": "管道_52",
+        "connector": {
+          "name": ""
+        },
+        "zIndex": 71,
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "source": {
+          "x": 944.6666870117188,
+          "y": 221.3333282470703
+        },
+        "target": {
+          "x": 1025,
+          "y": 274
+        },
+        "vertices": [
+          {
+            "x": 1027,
+            "y": 221.3333282470703
+          }
+        ]
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "4d0c7502-fb69-45f6-9a15-ca60400c1e5a",
+        "nodeName": "管道_52",
+        "connector": {
+          "name": ""
+        },
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 74,
+        "source": {
+          "x": 1266,
+          "y": 225
+        },
+        "target": {
+          "x": 1148,
+          "y": 289
+        },
+        "vertices": [
+          {
+            "x": 1148,
+            "y": 224
+          }
+        ]
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "cf94b775-aa6e-4922-b675-eb762b1bc4f8",
+        "nodeName": "管道_52",
+        "connector": {
+          "name": ""
+        },
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 75,
+        "source": {
+          "x": 1267,
+          "y": 185
+        },
+        "target": {
+          "x": 1267,
+          "y": 291
+        },
+        "vertices": []
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "6268488b-15d2-4c38-b4d7-4140ca1fc5db",
+        "nodeName": "管道_52",
+        "connector": {
+          "name": ""
+        },
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 76,
+        "source": {
+          "x": 1489,
+          "y": 224
+        },
+        "target": {
+          "x": 1367,
+          "y": 289
+        },
+        "vertices": [
+          {
+            "x": 1369,
+            "y": 223
+          }
+        ]
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "9e3db432-6ee7-43ae-bf59-f3f8ff364bf8",
+        "nodeName": "管道_52",
+        "connector": {
+          "name": ""
+        },
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 77,
+        "source": {
+          "x": 1107,
+          "y": 425
+        },
+        "target": {
+          "x": 1485,
+          "y": 292
+        },
+        "vertices": [
+          {
+            "x": 1111,
+            "y": 183
+          },
+          {
+            "x": 1490,
+            "y": 183.3333282470703
+          }
+        ]
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "a01cb93b-a702-4d86-a317-7e4a52b52c6c",
+        "nodeName": "管道_52",
+        "connector": {
+          "name": ""
+        },
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 78,
+        "source": {
+          "x": 1099,
+          "y": 861
+        },
+        "target": {
+          "x": 1105,
+          "y": 451
+        },
+        "vertices": []
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "c42964cc-3c3a-4954-9149-0318a1b572c7",
+        "nodeName": "管道_52",
+        "connector": {
+          "name": ""
+        },
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 79,
+        "source": {
+          "x": 350,
+          "y": 218
+        },
+        "target": {
+          "x": 433,
+          "y": 266
+        },
+        "vertices": [
+          {
+            "x": 433,
+            "y": 218
+          }
+        ]
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "ebe3ea23-c702-4b44-b798-3c500b64f975",
+        "nodeName": "管道_52",
+        "connector": {
+          "name": ""
+        },
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 80,
+        "source": {
+          "x": 551,
+          "y": 222
+        },
+        "target": {
+          "x": 634,
+          "y": 270
+        },
+        "vertices": [
+          {
+            "x": 634,
+            "y": 222
+          }
+        ]
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "8543b07c-2f27-4970-8a47-1be59ce0877e",
+        "nodeName": "管道_52",
+        "connector": {
+          "name": ""
+        },
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 81,
+        "source": {
+          "x": 742,
+          "y": 223
+        },
+        "target": {
+          "x": 825,
+          "y": 271
+        },
+        "vertices": [
+          {
+            "x": 825,
+            "y": 223
+          }
+        ]
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "6cfa3ba5-26de-4133-8b32-d165dedee345",
+        "nodeName": "管道_52",
+        "connector": {
+          "name": ""
+        },
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 82,
+        "source": {
+          "x": 340,
+          "y": 194
+        },
+        "target": {
+          "x": 342,
+          "y": 272
+        },
+        "vertices": []
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "c946097e-1010-4d35-a2a1-c7d571034669",
+        "nodeName": "管道_52",
+        "connector": {
+          "name": ""
+        },
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 83,
+        "source": {
+          "x": 540,
+          "y": 194
+        },
+        "target": {
+          "x": 542,
+          "y": 272
+        },
+        "vertices": []
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "8b340258-0695-43ec-bb38-960ff697af7e",
+        "nodeName": "管道_52",
+        "connector": {
+          "name": ""
+        },
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 84,
+        "source": {
+          "x": 733,
+          "y": 193
+        },
+        "target": {
+          "x": 735,
+          "y": 271
+        },
+        "vertices": []
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "be5854d0-f8e2-4e05-a582-c5410d6c71b3",
+        "nodeName": "管道_51",
+        "connector": {
+          "name": ""
+        },
+        "zIndex": 85,
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "source": {
+          "x": 111,
+          "y": 422
+        },
+        "target": {
+          "x": 937,
+          "y": 273
+        },
+        "vertices": [
+          {
+            "x": 99,
+            "y": 189.5238037109375
+          },
+          {
+            "x": 939,
+            "y": 189.5238037109375
+          }
+        ]
+      },
+      {
+        "shape": "pipeline-edge",
+        "visible": true,
+        "attrs": {
+          "stroke": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke2": {
+            "stroke": "rgba(0, 0, 0, 0)"
+          },
+          "stroke3": {
+            "stroke": "rgba(19, 106, 75, 1)"
+          },
+          "stroke4": {
+            "stroke": "rgba(68, 217, 134, 1)",
+            "strokeWidth": "7"
+          }
+        },
+        "status": [
+          {
+            "label": "管道样式",
+            "selected": "绿色",
+            "status": [
+              {
+                "label": "默认",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "#272727"
+                    },
+                    "stroke2": {
+                      "stroke": "#d8c0c0"
+                    },
+                    "stroke3": {
+                      "stroke": "#ffffff"
+                    },
+                    "stroke4": {
+                      "stroke": "#4297E4",
+                      "strokeWidth": "12"
+                    }
+                  }
+                }
+              },
+              {
+                "label": "绿色",
+                "statu": {
+                  "style": {
+                    "stroke": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke2": {
+                      "stroke": "rgba(0, 0, 0, 0)"
+                    },
+                    "stroke3": {
+                      "stroke": "rgba(19, 106, 75, 1)"
+                    },
+                    "stroke4": {
+                      "stroke": "rgba(68, 217, 134, 1)",
+                      "strokeWidth": "7"
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "label": "流动状态",
+            "selected": "停止",
+            "status": [
+              {
+                "label": "正向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite normal none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "反向流动",
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "strokeDasharray": "20,20",
+                      "style": {
+                        "animation": "20s linear 0s infinite reverse none running ant-line"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "label": "停止",
+                "isDefault": true,
+                "statu": {
+                  "style": {
+                    "stroke4": {
+                      "style": {
+                        "animation": "none"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "id": "4f621eed-c279-4d8f-a45c-e6b4d40a94fe",
+        "nodeName": "管道_52",
+        "connector": {
+          "name": ""
+        },
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{5wGGBkpTnTTQ_-7I_09NN.MhAisbaeWPpwWJSHl9TfL}===1",
+              "points": [
+                {
+                  "mpKey": "5wGGBkpTnTTQ_-7I_09NN",
+                  "attrKey": "MhAisbaeWPpwWJSHl9TfL",
+                  "mpId": 1,
+                  "attrId": 2
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "status"
+                ],
+                "result": "",
+                "status": {
+                  "管道样式": "",
+                  "流动状态": {
+                    "label": "正向流动",
+                    "statu": {
+                      "style": {
+                        "stroke4": {
+                          "strokeDasharray": "20,20",
+                          "style": {
+                            "animation": "20s linear 0s infinite normal none running ant-line"
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "text": {
+                  "selector": "",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 86,
+        "source": {
+          "x": 704,
+          "y": 718
+        },
+        "target": {
+          "x": 113,
+          "y": 450
+        },
+        "vertices": [
+          {
+            "x": 706,
+            "y": 572
+          },
+          {
+            "x": 120,
+            "y": 572
+          }
+        ],
+        "tools": {
+          "items": [],
+          "name": null
+        }
+      },
+      {
+        "position": {
+          "x": 413,
+          "y": 295
+        },
+        "size": {
+          "width": 420,
+          "height": 216
+        },
+        "visible": true,
+        "inherit": "rect",
+        "attrs": {
+          "d3-group-node": {
+            "group": ""
+          }
+        },
+        "shape": "custom-group-node",
+        "id": "97859db7-a0de-487a-a85b-5328635104cb",
+        "nodeName": "组合_65",
+        "zIndex": 87,
+        "group-lock": false,
+        "children": [
+          "7cfaccdb-40f6-4b65-a8c9-d34f14dbf07d",
+          "3d7c4a01-72f7-42d1-9568-6eb49f743272",
+          "aec2a49a-ea2f-4b75-ae17-6f921017c045",
+          "4a352906-c356-432c-9878-d01c0b4fe757",
+          "a91d2020-a67b-4b5e-8960-d3acb8b9147c",
+          "76a34d81-d744-441a-9e9e-924446f84701",
+          "d4baa18e-7865-4be4-a2e7-879df735c9c6",
+          "ba28082b-0835-44b0-8cd5-3bb779e89867",
+          "2c13895f-6f95-466e-921b-16c160d2fe74",
+          "adba2d93-5d4c-49f2-8fcd-4a0bfc61a56a",
+          "514e91cb-815f-432f-b011-bc3438ec57d6",
+          "ff4a5531-9f1d-4246-9b6e-905e6e360d50"
+        ],
+        "data": {},
+        "preserveAspectRatio": false,
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)"
       },
       {
         "position": {
@@ -2983,7 +6092,7 @@
         "shape": "rect",
         "id": "point_left_top",
         "lock": true,
-        "zIndex": 64
+        "zIndex": 88
       },
       {
         "position": {
@@ -2998,7 +6107,7 @@
         "shape": "rect",
         "id": "point_right_top",
         "lock": true,
-        "zIndex": 66
+        "zIndex": 89
       },
       {
         "position": {
@@ -3013,7 +6122,7 @@
         "shape": "rect",
         "id": "point_left_bottom",
         "lock": true,
-        "zIndex": 67
+        "zIndex": 90
       },
       {
         "position": {
@@ -3028,7 +6137,7 @@
         "shape": "rect",
         "id": "point_bottom_bottom",
         "lock": true,
-        "zIndex": 68
+        "zIndex": 91
       }
     ]
   },

@@ -1,0 +1,2458 @@
+{
+  "graph": {
+    "backgroundColor": "#000",
+    "backgroundImg": "",
+    "pageSize": {
+      "key": "1680*1050(8:5)",
+      "width": 1680,
+      "height": 1050
+    },
+    "contentAdaptation": "fullAll"
+  },
+  "cells": {
+    "cells": [
+      {
+        "position": {
+          "x": 342,
+          "y": 692.8000000000019
+        },
+        "size": {
+          "width": 760,
+          "height": 180
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "b381d15f-3292-42cf-9f8b-d91880c55881",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "我们都喜欢《飘向北方》，现在谁去 KTV 唱这首都会录视频发给彼此;重庆下雪那天，朋友在雪地里写下了我们所有人的名字。",
+            "textAnchor": "left",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "xAlign": "middle"
+          },
+          "super-group-node": {
+            "opacity": 0
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_14",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": -10,
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}===100",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "gdanimation"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": [
+                    {
+                      "key": "cellshow",
+                      "name": "组件显示"
+                    }
+                  ]
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                },
+                "style": [
+                  {
+                    "type": "add",
+                    "attrName": "text/visibility",
+                    "attrValue": "visible"
+                  }
+                ],
+                "gdanimation": {
+                  "attr": "opacity",
+                  "orgValue": 0,
+                  "targetValue": 1,
+                  "duration": 1000,
+                  "delay": 0,
+                  "timing": "quad"
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "opacity": 1
+      },
+      {
+        "position": {
+          "x": 558,
+          "y": 783
+        },
+        "size": {
+          "width": 45,
+          "height": 44
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "93f3401a-948b-4447-988a-7fa6ea250a0b",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "rgba(95, 149, 255, 0)",
+            "fill": "rgba(0, 0, 0, 1)"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_21",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": -9,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 557,
+          "y": 739
+        },
+        "size": {
+          "width": 45,
+          "height": 44
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "85f2dfc8-6973-4a29-9b41-cddbc2c33019",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "rgba(95, 149, 255, 0)",
+            "fill": "rgba(0, 0, 0, 1)"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_21",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": -8,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 342,
+          "y": 559.6000000000021
+        },
+        "size": {
+          "width": 740,
+          "height": 120
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "31efa0ca-8693-432d-a449-07f8d660ed45",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "毕业季不是朋友的分手季。我们很少见面，但始终彼此牵挂。",
+            "textAnchor": "left",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "xAlign": "middle"
+          },
+          "super-group-node": {
+            "opacity": 0
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_14",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": -7,
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}===100",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "gdanimation"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": [
+                    {
+                      "key": "cellshow",
+                      "name": "组件显示"
+                    }
+                  ]
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                },
+                "style": [
+                  {
+                    "type": "add",
+                    "attrName": "text/visibility",
+                    "attrValue": "visible"
+                  }
+                ],
+                "gdanimation": {
+                  "attr": "opacity",
+                  "orgValue": 0,
+                  "targetValue": 1,
+                  "duration": 1000,
+                  "delay": 0,
+                  "timing": "quad"
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "opacity": 1
+      },
+      {
+        "position": {
+          "x": 690,
+          "y": 572
+        },
+        "size": {
+          "width": 85,
+          "height": 46
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "578dc115-5c2d-4f49-8551-1f3a2e0f8c07",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "rgba(95, 149, 255, 0)",
+            "fill": "rgba(0, 0, 0, 1)"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_21",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": -6,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 347,
+          "y": 572
+        },
+        "size": {
+          "width": 128,
+          "height": 46
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "8a2ec2a8-990f-4864-8387-464f95537e8c",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "rgba(95, 149, 255, 0)",
+            "fill": "rgba(0, 0, 0, 1)"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_21",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": -5,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 342,
+          "y": 386.40000000000225
+        },
+        "size": {
+          "width": 740,
+          "height": 160
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "852c8a41-f34d-480c-ba16-115927f4700c",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "拍毕业照那天下大雨，我们打伞站成一排，再喊 321一起把伞扔掉。每个人都淋成落汤鸡，妆也花了，但笑得开心。",
+            "textAnchor": "left",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "xAlign": "middle"
+          },
+          "super-group-node": {
+            "opacity": 0
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_14",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": -3,
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}===100",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "gdanimation"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": [
+                    {
+                      "key": "cellshow",
+                      "name": "组件显示"
+                    }
+                  ]
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                },
+                "style": [
+                  {
+                    "type": "add",
+                    "attrName": "text/visibility",
+                    "attrValue": "visible"
+                  }
+                ],
+                "gdanimation": {
+                  "attr": "opacity",
+                  "orgValue": 0,
+                  "targetValue": 1,
+                  "duration": 1000,
+                  "delay": 0,
+                  "timing": "quad"
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "opacity": 1
+      },
+      {
+        "position": {
+          "x": 649,
+          "y": 488.0000000000026
+        },
+        "size": {
+          "width": 41,
+          "height": 46
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "70595031-4a17-4830-9b16-c2616bbcfefb",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "rgba(95, 149, 255, 0)",
+            "fill": "rgba(0, 0, 0, 1)"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_21",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": -2,
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 342,
+          "y": 160.00000000000264
+        },
+        "size": {
+          "width": 720,
+          "height": 100
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "9f2c6802-a9d0-414e-ae4f-a098c77daadd",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "去年，我毕业了，朋友们各奔东西。",
+            "textAnchor": "left",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "xAlign": "middle"
+          },
+          "super-group-node": {
+            "opacity": 0
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_14",
+        "zIndex": -1,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}===100",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "gdanimation"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": [
+                    {
+                      "key": "cellshow",
+                      "name": "组件显示"
+                    }
+                  ]
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                },
+                "style": [
+                  {
+                    "type": "add",
+                    "attrName": "text/visibility",
+                    "attrValue": "visible"
+                  }
+                ],
+                "gdanimation": {
+                  "attr": "opacity",
+                  "orgValue": 0,
+                  "targetValue": 1,
+                  "duration": 1000,
+                  "delay": 0,
+                  "timing": "quad"
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "opacity": 1
+      },
+      {
+        "position": {
+          "x": 697,
+          "y": 185.00000000000264
+        },
+        "size": {
+          "width": 90,
+          "height": 50
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "2dbb123f-86fc-4fc1-8474-17b054663855",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "rgba(95, 149, 255, 0)",
+            "fill": "rgba(0, 0, 0, 1)"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_21",
+        "zIndex": 0,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true
+      },
+      {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "super-node",
+        "id": "alarm_node_id",
+        "markup": [
+          {
+            "tagName": "rect"
+          }
+        ],
+        "lock": true,
+        "zIndex": 1
+      },
+      {
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_left_top",
+        "lock": true,
+        "zIndex": 2
+      },
+      {
+        "position": {
+          "x": 1679,
+          "y": 0
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_right_top",
+        "lock": true,
+        "zIndex": 3
+      },
+      {
+        "position": {
+          "x": 0,
+          "y": 1049
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_left_bottom",
+        "lock": true,
+        "zIndex": 4
+      },
+      {
+        "position": {
+          "x": 1679,
+          "y": 1049
+        },
+        "size": {
+          "width": 1,
+          "height": 1
+        },
+        "visible": false,
+        "shape": "rect",
+        "id": "point_bottom_bottom",
+        "lock": true,
+        "zIndex": 5
+      },
+      {
+        "position": {
+          "x": 342,
+          "y": 273.20000000000243
+        },
+        "size": {
+          "width": 720,
+          "height": 100
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "a41aa640-b293-4c6f-acf2-68e4699b4fa2",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "我们寝室6个特有缘分，有两对是同年同月同日生，一直感情很好。",
+            "textAnchor": "left",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "xAlign": "middle"
+          },
+          "super-group-node": {
+            "opacity": 0
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_14",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 15,
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}===100",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "gdanimation"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": [
+                    {
+                      "key": "cellshow",
+                      "name": "组件显示"
+                    }
+                  ]
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                },
+                "style": [
+                  {
+                    "type": "add",
+                    "attrName": "text/visibility",
+                    "attrValue": "visible"
+                  }
+                ],
+                "gdanimation": {
+                  "attr": "opacity",
+                  "orgValue": 0,
+                  "targetValue": 1,
+                  "duration": 1000,
+                  "delay": 0,
+                  "timing": "quad"
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "opacity": 1
+      },
+      {
+        "position": {
+          "x": 342,
+          "y": 886.0000000000017
+        },
+        "size": {
+          "width": 740,
+          "height": 120
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "d6874aa5-576c-4ba1-ba9b-b4209bd53372",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "我相信总有什么东西永恒的，比如雪地里的名字，歌声，和彼此依偎的心。",
+            "textAnchor": "left",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(255, 255, 255, 1)",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "xAlign": "middle"
+          },
+          "super-group-node": {
+            "opacity": 0
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_14",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "zIndex": 19,
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}===100",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "gdanimation"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": [
+                    {
+                      "key": "cellshow",
+                      "name": "组件显示"
+                    }
+                  ]
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                },
+                "style": [
+                  {
+                    "type": "add",
+                    "attrName": "text/visibility",
+                    "attrValue": "visible"
+                  }
+                ],
+                "gdanimation": {
+                  "attr": "opacity",
+                  "orgValue": 0,
+                  "targetValue": 1,
+                  "duration": 1000,
+                  "delay": 0,
+                  "timing": "quad"
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "opacity": 1
+      },
+      {
+        "position": {
+          "x": 481,
+          "y": 308
+        },
+        "size": {
+          "width": 100,
+          "height": 100
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "63a5ff69-0b22-4cf6-9bbf-f0ff51477d87",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "朋友",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            }
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_7",
+        "zIndex": 20,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "transition"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 0,
+                    "timing": "quad",
+                    "target": {
+                      "x": 695,
+                      "y": 159
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "opacity": 1
+      },
+      {
+        "position": {
+          "x": 407,
+          "y": 360
+        },
+        "size": {
+          "width": 100,
+          "height": 100
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "ae19c534-d7b2-41ac-8966-3c38ce636857",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "也",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            }
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_7",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "transition"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 0,
+                    "timing": "quad",
+                    "target": {
+                      "x": 619,
+                      "y": 458
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 22
+      },
+      {
+        "position": {
+          "x": 456,
+          "y": 360
+        },
+        "size": {
+          "width": 100,
+          "height": 100
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "40626206-8843-4e0b-ace7-c10259032f65",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "会",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            }
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_7",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "transition"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 0,
+                    "timing": "quad",
+                    "target": {
+                      "x": 529,
+                      "y": 712
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 23
+      },
+      {
+        "position": {
+          "x": 502,
+          "y": 361
+        },
+        "size": {
+          "width": 100,
+          "height": 100
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "6b6ba459-786e-4064-8c70-b6c286e6e25b",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "在",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            }
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_7",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "transition"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 0,
+                    "timing": "quad",
+                    "target": {
+                      "x": 533,
+                      "y": 754
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 24
+      },
+      {
+        "position": {
+          "x": 435,
+          "y": 424.5
+        },
+        "size": {
+          "width": 140,
+          "height": 99.9999999999996
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "680aab71-e83e-4e30-8841-b9b69ad82bd9",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "毕业季",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            }
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_7",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "transition"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 0,
+                    "timing": "quad",
+                    "target": {
+                      "x": 341,
+                      "y": 548
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 25
+      },
+      {
+        "position": {
+          "x": 557,
+          "y": 420.5
+        },
+        "size": {
+          "width": 140,
+          "height": 99.9999999999996
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "559a40e7-0848-4529-9865-28e5b05632a3",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "分手",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "rgba(242, 82, 34, 1)",
+            "fontSize": 58,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            },
+            "fontWeight": "bold",
+            "fontStyle": "italic"
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_7",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "transition"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 0,
+                    "timing": "quad",
+                    "target": {
+                      "x": 663,
+                      "y": 548
+                    }
+                  }
+                },
+                "style": [
+                  {
+                    "type": "change",
+                    "attrName": "text/fontSize",
+                    "attrValue": 43,
+                    "orgAttrValue": 58
+                  },
+                  {
+                    "type": "change",
+                    "attrName": "text/fill",
+                    "attrValue": "#00FF00",
+                    "orgAttrValue": "rgba(242, 82, 34, 1)"
+                  },
+                  {
+                    "type": "remove",
+                    "attrName": "text/fontWeight",
+                    "orgAttrValue": "bold"
+                  },
+                  {
+                    "type": "remove",
+                    "attrName": "text/fontStyle",
+                    "orgAttrValue": "italic"
+                  }
+                ]
+              },
+              "result": true
+            },
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}===100",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": 1,
+                  "attrId": 1
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "style"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 0,
+                      "y": 0
+                    }
+                  }
+                },
+                "style": [
+                  {
+                    "type": "change",
+                    "attrName": "text/fontSize",
+                    "attrValue": 43,
+                    "orgAttrValue": 58
+                  },
+                  {
+                    "type": "change",
+                    "attrName": "text/fill",
+                    "attrValue": "#00FF00",
+                    "orgAttrValue": "rgba(242, 82, 34, 1)"
+                  },
+                  {
+                    "type": "change",
+                    "attrName": "text/fontWeight",
+                    "attrValue": "normal",
+                    "orgAttrValue": "bold"
+                  },
+                  {
+                    "type": "change",
+                    "attrName": "text/fontStyle",
+                    "attrValue": "normal",
+                    "orgAttrValue": "italic"
+                  }
+                ]
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 26
+      },
+      {
+        "position": {
+          "x": 1220,
+          "y": 154.99999999999733
+        },
+        "size": {
+          "width": 280,
+          "height": 50.0000000000023
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "8dfd03c5-758e-4acd-9783-d3148b8d1926",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "点击查看效果",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            }
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_20",
+        "zIndex": 28,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)"
+      },
+      {
+        "position": {
+          "x": 1170,
+          "y": 129.99999999999795
+        },
+        "size": {
+          "width": 360,
+          "height": 100
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "605d532e-3377-47e6-95fe-638c9dd8b9ca",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "#5F95FF",
+            "fill": "#eff4ff6e"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_19",
+        "zIndex": 29,
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "events": [
+          {
+            "id": "exPQPGnd9BBQy6Ex5b-zi",
+            "eventType": "click",
+            "actionType": "data",
+            "formType": "tooltip",
+            "menuTitle": "",
+            "actions": [
+              {
+                "id": "m3AbNCXc2Umy2vyMb0fB1",
+                "dataActionType": "setdata",
+                "type": "button",
+                "title": "文字归位",
+                "value": "100",
+                "url": "",
+                "blueprint": null,
+                "point": {
+                  "id": "",
+                  "mpId": 1,
+                  "mpName": "",
+                  "attrId": 1,
+                  "attrName": "",
+                  "multiple": 1,
+                  "decimal": 2,
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx"
+                },
+                "texts": [
+                  {
+                    "value": "",
+                    "text": ""
+                  }
+                ]
+              },
+              {
+                "id": "qSwtkyx7AAeUbshWv2nfx",
+                "dataActionType": "setdata",
+                "type": "button",
+                "title": "文字还原",
+                "value": "0",
+                "url": "",
+                "blueprint": null,
+                "point": {
+                  "id": "",
+                  "mpId": 1,
+                  "mpName": "",
+                  "attrId": 1,
+                  "attrName": "",
+                  "multiple": 1,
+                  "decimal": 2,
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx"
+                },
+                "texts": [
+                  {
+                    "value": "",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "position": {
+          "x": 664,
+          "y": 424.5
+        },
+        "size": {
+          "width": 140,
+          "height": 99.9999999999996
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "47528991-2223-4517-b819-603eb3e2da96",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "吗？",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            }
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_7",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}===100",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "animation"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": [
+                    {
+                      "key": "cellhidn",
+                      "name": "组件隐藏"
+                    }
+                  ]
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 10,
+                    "timing": "quad",
+                    "target": {
+                      "x": 663,
+                      "y": 548
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 30
+      },
+      {
+        "position": {
+          "x": 818,
+          "y": 324
+        },
+        "size": {
+          "width": 45,
+          "height": 41
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "65ca0972-4e2b-47d6-9797-b7dc50305302",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "tagName": "rect",
+                    "selector": "rect"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "rect": {
+            "refWidth": 1,
+            "refHeight": 1,
+            "strokeWidth": 1,
+            "stroke": "rgba(95, 149, 255, 0)",
+            "fill": "rgba(0, 0, 0, 1)"
+          }
+        },
+        "label": "矩形",
+        "nodeName": "矩形_21",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "lock": true,
+        "zIndex": 32
+      },
+      {
+        "position": {
+          "x": 409,
+          "y": 307
+        },
+        "size": {
+          "width": 100,
+          "height": 100
+        },
+        "visible": true,
+        "shape": "super-node",
+        "id": "f5c3791f-924c-431a-b8b9-f17d7bd3e215",
+        "preserveAspectRatio": false,
+        "markup": [
+          {
+            "tagName": "g",
+            "selector": "d3-group-node",
+            "children": [
+              {
+                "tagName": "g",
+                "selector": "super-group-node",
+                "children": [
+                  {
+                    "name": "文本",
+                    "tagName": "text",
+                    "selector": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "attrs": {
+          "text": {
+            "text": "好",
+            "textAnchor": "middle",
+            "refX": 0.5,
+            "refY": 0.5,
+            "yAlign": "middle",
+            "fill": "#00FF00",
+            "fontSize": 43,
+            "textWrap": {
+              "refWidth": 1,
+              "refHeight": 1,
+              "ellipsis": false
+            }
+          }
+        },
+        "label": "标题",
+        "nodeName": "标题_7",
+        "data": {},
+        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
+        "formulas": {
+          "cases": [
+            {
+              "ifstr": "{24NtGtivYLeFi9jf0NlGk.yw6du_poEWFEoLPlRfTMx}",
+              "points": [
+                {
+                  "mpKey": "24NtGtivYLeFi9jf0NlGk",
+                  "attrKey": "yw6du_poEWFEoLPlRfTMx",
+                  "mpId": "1",
+                  "attrId": "1"
+                }
+              ],
+              "touchOff": {
+                "type": [
+                  "transition"
+                ],
+                "result": "",
+                "text": {
+                  "selector": "text",
+                  "texts": [
+                    {
+                      "value": "",
+                      "text": ""
+                    }
+                  ]
+                },
+                "progress": {
+                  "selector": [
+                    "super-group-node"
+                  ],
+                  "config": {
+                    "top": false,
+                    "bottom": false,
+                    "left": false,
+                    "right": false
+                  }
+                },
+                "animation": {
+                  "selector": [
+                    "d3-group-node"
+                  ],
+                  "effect": []
+                },
+                "transition": {
+                  "move": {
+                    "max": 100,
+                    "duration": 1000,
+                    "delay": 0,
+                    "timing": "quad",
+                    "target": {
+                      "x": 791,
+                      "y": 295
+                    }
+                  }
+                }
+              },
+              "result": true
+            }
+          ]
+        },
+        "zIndex": 33
+      }
+    ]
+  },
+  "points": [
+    {
+      "mpKey": "24NtGtivYLeFi9jf0NlGk",
+      "attrKey": "yw6du_poEWFEoLPlRfTMx",
+      "mpId": 1,
+      "mpName": "测量点1",
+      "attrId": 1,
+      "attrName": "A相电压"
+    }
+  ]
+}
