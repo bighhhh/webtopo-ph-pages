@@ -1412,14 +1412,14 @@
     <line x1="-20" y1="-5" x2="-20" y2="5" stroke-width="1"/>
     <path d="M18 14 L-16 -16 L-16 -12 M-16 -16 L-12 -16" fill="transparent"/>
 	</symbol>
-	<symbol id="CT_V_R" viewBox="-30 -30 60 60">
+	<symbol id="CT_V_R" viewBox="-16 -16 32 32">
 		<line x1="0" y1="-12" x2="0" y2="12" stroke-width="1" />
 		<circle r="6" cx="0" cy="0" stroke-width="1" fill-opacity="0" />
 		<line x1="6" y1="0" x2="17" y2="0" stroke-width="1" />
 		<line x1="8" y1="4" x2="12" y2="-4" stroke-width="1" />
 		<line x1="12" y1="4" x2="16" y2="-4" stroke-width="1" />
 	</symbol>
-	<symbol id="CT_V_L" viewBox="-30 -30 60 60">
+	<symbol id="CT_V_L" viewBox="-16 -16 32 32">
 		<line x1="0" y1="-12" x2="0" y2="12" stroke-width="1" />
 		<circle r="6" cx="0" cy="0" stroke-width="1" fill-opacity="0" />
 		<line x1="-6" y1="0" x2="-17" y2="0" stroke-width="1" />
@@ -1440,7 +1440,7 @@
 		<line x1="4" y1="8" x2="-4" y2="12" stroke-width="1" />
 		<line x1="4" y1="12" x2="-4" y2="16" stroke-width="1" />
 	</symbol>
-	<symbol id="DDCT_V_R" viewBox="-30 -30 60 60">
+	<symbol id="DDCT_V_R" viewBox="-16 -16 32 32">
 		<line x1="0" y1="-20" x2="0" y2="20" stroke-width="1" />
 		<circle r="6" cx="0" cy="-8" stroke-width="1" fill-opacity="0" />
 		<circle r="6" cx="0" cy="8" stroke-width="1" fill-opacity="0" />
@@ -1621,7 +1621,7 @@
 			Load
 		</text>
 	</symbol>
-	<symbol id="EquivalentSource" viewBox="-30 -30 60 60">
+	<symbol id="EquivalentSource" viewBox="-20 -20 40 40">
 		<circle cx="0" cy="0" r="16" fill-opacity="0" stroke-width="2" />
 		<text x="-8" y="6" font-size="16" font-family="Simsun" fill-opacity="0">
 			Eq
@@ -1751,7 +1751,7 @@
 		<line x1="22" y1="-5" x2="22" y2="5" stroke-width="1" />
 		<line x1="25" y1="-3" x2="25" y2="3" stroke-width="1" />
 	</symbol>
-	<symbol id="Ground_D" viewBox="-30 -30 60 60">
+	<symbol id="Ground_D" viewBox="-16 -16 32 32">
 		<line x1="0" y1="0" x2="0" y2="9" stroke-width="1" />
 		<line x1="-7" y1="9" x2="7" y2="9" stroke-width="1" />
 		<line x1="-5" y1="12" x2="5" y2="12" stroke-width="1" />
@@ -1775,7 +1775,7 @@
 		<line x1="12" y1="-5" x2="12" y2="5" stroke-width="1" />
 		<line x1="15" y1="-3" x2="15" y2="3" stroke-width="1" />
 	</symbol>
-	<symbol id="NoiselessGround_D" viewBox="-30 -30 60 60">
+	<symbol id="NoiselessGround_D" viewBox="-16 -16 32 32">
 		<line x1="0" y1="-9" x2="0" y2="9" stroke-width="1" />
 		<line x1="-7" y1="9" x2="7" y2="9" stroke-width="1" />
 		<line x1="-5" y1="12" x2="5" y2="12" stroke-width="1" />
@@ -1803,7 +1803,7 @@
 		<line x1="15" y1="-3" x2="15" y2="3" stroke-width="1" />
 		<path d="M12 -9 A9,9 90 1 0 12,9" fill-opacity="0" />
 	</symbol>
-	<symbol id="ProtectGround_D" viewBox="-30 -30 60 60">
+	<symbol id="ProtectGround_D" viewBox="-16 -16 32 32">
 		<line x1="0" y1="-9" x2="0" y2="9" stroke-width="1" />
 		<line x1="-7" y1="9" x2="7" y2="9" stroke-width="1" />
 		<line x1="-5" y1="12" x2="5" y2="12" stroke-width="1" />
