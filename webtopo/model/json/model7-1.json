@@ -7,8 +7,7 @@
       "width": 1680,
       "height": 1050
     },
-    "contentAdaptation": "fullAll",
-    "previewInteractionMode": "free"
+    "contentAdaptation": "fullAll"
   },
   "cells": {
     "cells": [
@@ -6035,7 +6034,11 @@
             "x": 120,
             "y": 572
           }
-        ]
+        ],
+        "tools": {
+          "items": [],
+          "name": null
+        }
       },
       {
         "position": {
@@ -6135,200 +6138,6 @@
         "id": "point_bottom_bottom",
         "lock": true,
         "zIndex": 91
-      },
-      {
-        "position": {
-          "x": 755.0000000000002,
-          "y": 280.9999999999993
-        },
-        "size": {
-          "width": 400,
-          "height": 300
-        },
-        "view": "vue-shape-view",
-        "shape": "BarChart",
-        "label": "BarChart",
-        "charts": {
-          "theme": "chart-theme-dark.js",
-          "color": {
-            "colorOpacity": 100,
-            "colorObj": {
-              "name": "默认",
-              "value": "default",
-              "colors": [
-                "#5470c6",
-                "#91cc75",
-                "#fac858",
-                "#ee6666",
-                "#73c0de",
-                "#3ba272",
-                "#fc8452",
-                "#9a60b4",
-                "#ea7ccc"
-              ]
-            }
-          },
-          "title": {
-            "show": true,
-            "text": "新建图表",
-            "x": "left",
-            "y": "top",
-            "padding": 20,
-            "textStyle": {
-              "fontStyle": "normal",
-              "fontWeight": "bolder",
-              "fontSize": 18,
-              "color": "#f2f2f2"
-            }
-          },
-          "legend": {
-            "show": true,
-            "type": "scroll",
-            "orient": "horizontal",
-            "x": "right",
-            "y": "top",
-            "icon": "",
-            "padding": 30,
-            "itemStyle": {
-              "borderType": "inherit",
-              "borderCap": "butt"
-            },
-            "textStyle": {
-              "fontSize": "12",
-              "fontStyle": "normal",
-              "fontWeight": "bolder",
-              "color": "#bfbfbf",
-              "lineHeight": 14
-            },
-            "inactiveColor": "#595959",
-            "inactiveBorderColor": "#000"
-          },
-          "tooltip": {
-            "show": true,
-            "appendToBody": true,
-            "trigger": "axis",
-            "textStyle": {
-              "fontSize": "12",
-              "fontStyle": "normal",
-              "fontWeight": "bolder",
-              "color": "#ffffff"
-            },
-            "axisPointer": {
-              "lineStyle": {
-                "color": "#434343",
-                "width": "1"
-              },
-              "crossStyle": {
-                "color": "#434343",
-                "width": "1"
-              }
-            },
-            "backgroundColor": "rgba(48,48,48,0.95)",
-            "borderWidth": 0
-          },
-          "grid": {
-            "top": {
-              "value": 20,
-              "unit": "%"
-            },
-            "left": {
-              "value": 5,
-              "unit": "%"
-            },
-            "right": {
-              "value": 5,
-              "unit": "%"
-            },
-            "bottom": {
-              "value": 5,
-              "unit": "%"
-            },
-            "containLabel": true
-          },
-          "xAxis": {
-            "show": true,
-            "position": "bottom",
-            "type": "category",
-            "boundaryGap": false,
-            "axisTick": {
-              "show": true
-            },
-            "splitLine": {
-              "show": false,
-              "lineStyle": {
-                "color": "#E6E6E6",
-                "width": 1,
-                "type": "solid"
-              }
-            },
-            "axisLabel": {
-              "show": true,
-              "rotate": 0,
-              "fontSize": 12,
-              "color": "#bfbfbf"
-            }
-          },
-          "yAxis": {
-            "type": "value",
-            "position": "left",
-            "axisTick": {
-              "show": true
-            },
-            "splitLine": {
-              "show": true,
-              "lineStyle": {
-                "color": "#E6E6E6",
-                "width": 1,
-                "type": "dashed"
-              }
-            },
-            "axisLabel": {
-              "show": true,
-              "rotate": 0,
-              "fontSize": 12,
-              "color": "#bfbfbf"
-            }
-          },
-          "series": {
-            "type": "bar",
-            "radius": {
-              "inner": {
-                "value": 0,
-                "unit": "%"
-              },
-              "outside": {
-                "value": 70,
-                "unit": "%"
-              }
-            },
-            "symbol": "star",
-            "symbolSize": 1,
-            "itemStyle": {
-              "normal": {
-                "lineStyle": {
-                  "width": 1
-                }
-              }
-            },
-            "smooth": false
-          },
-          "name": "暗黑",
-          "backgroundColor": "rgba(0,0,0,0)",
-          "textStyle": {}
-        },
-        "nodeType": "echarts",
-        "visible": true,
-        "id": "dd4ce841-0d8b-423b-8fad-2c037697b98c",
-        "key": "qXShRyXH-8cIxCCxMPkE8",
-        "groupKey": "charts",
-        "nodeName": "BarChart_66",
-        "data": {
-          "__autoSelectOnAdded": true
-        },
-        "zIndex": 92,
-        "preserveAspectRatio": false,
-        "rotate3d": "rotate3d(1, 1, 1, 0deg)",
-        "opacity": 1
       }
     ]
   },

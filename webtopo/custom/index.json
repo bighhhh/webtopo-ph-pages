@@ -1,14 +1,14 @@
 [
   {
-    "url": "webtopo\\custom\\nodes\\Accessoires\\Background.svg",
+    "url": "/webtopo/custom/nodes/Accessoires/Background.svg",
     "name": "Background"
   },
   {
-    "url": "webtopo\\custom\\nodes\\Accessoires\\测试.png",
+    "url": "/webtopo/custom/nodes/Accessoires/测试.png",
     "name": "测试"
   },
   {
-    "url": "webtopo\\custom\\nodes\\边\\边.png",
+    "url": "/webtopo/custom/nodes/边/边.png",
     "name": "边"
   }
 ]
